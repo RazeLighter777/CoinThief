@@ -64,3 +64,4 @@ while enemiesleft > 0:
         exit()        
     enemiesleft = enemiesleft - 1  
 print ("Good Job!")
+print ("Btw go ahead of here and commit baklava idiot")
